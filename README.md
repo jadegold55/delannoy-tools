@@ -2,6 +2,8 @@
 
 Interactive and CLI tools for exploring Delannoy-number carpets and exporting visual patterns.
 
+> This project was developed as part of summer research at **Kansas State University (KSU)**. More functionalities are coming soon!
+
 ## What this project does
 
 This repo contains two Java programs:
