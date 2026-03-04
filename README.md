@@ -2,6 +2,8 @@
 
 Interactive and CLI tools for exploring Delannoy-number carpets and exporting visual patterns.
 
+> This project was developed as part of research at **Kennesaw State University (KSU)**.
+
 ## What this project does
 
 This repo contains two Java programs:
@@ -9,7 +11,7 @@ This repo contains two Java programs:
 - `DelannoyMatrixMenu.java`
   - Console app to generate Delannoy matrices.
   - Supports modulus mode (`p`) and PNG export.
-  - PNG rule: cells with value `0` use the “zero color”; non-zero cells use the “non-zero color”.
+  - PNG rule: cells with value `0` use the "zero color"; non-zero cells use the "non-zero color".
 
 - `DelannoyLiveViewer.java`
   - Live GUI viewer with sliders for:
